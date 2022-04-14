@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🍀, I'm Abdullah Al Hadi Mahfuz</h1>
-<h3 align="center">Data Scientist with interests in Robotics & Mechatronics interest</h3>
+<h3 align="center">Data Scientist with a passion in Robotics & Mechatronics </h3>
 
 - 🔭 I’m currently working on [Arduino-Electronic-Voting-Machine](https://github.com/abdullah-hadi/Arduino-Electronic-Voting-Machine)
 
