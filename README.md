@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **armahfuz47@gmail.com**
 
-- ⚡ Fun fact **I love Fluid Mechanics**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-hadi&show_icons=true&locale=en&layout=compact" alt="abdullah-hadi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-hadi&show_icons=true&locale=en" alt="abdullah-hadi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-hadi&" alt="abdullah-hadi" /></p>
 
