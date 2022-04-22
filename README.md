@@ -100,3 +100,7 @@
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-hadi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=github_dark&hide=HTML,CSS "
         alt="abdullah-hadi" /></p>
+        <br/>
+<br/>
+
+<a href="https://github.com/abdullah-hadi/github-readme-activity-graph"><img alt="Abdullah Al Hadi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abdullah-hadi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
