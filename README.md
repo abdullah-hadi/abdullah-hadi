@@ -97,10 +97,8 @@
 </p>
 
 
-<p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-hadi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=github_dark&hide=HTML,CSS "
-        alt="abdullah-hadi" /></p>
-        <br/>
+
+       
 <br/>
 
 
