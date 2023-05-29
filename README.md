@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist with a passion in Robotics & Mechatronics </h3>
 
 - 🔭 I’m currently working on
-[smart-home | Arduino_ESP32](https://github.com/abdullah-hadi/smart-home_Arduino-ESP32)
+[Medical Image Classification using Deep Learning](https://github.com/abdullah-hadi/medical-image-classification-deep-learning)
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, TinyML**
 
