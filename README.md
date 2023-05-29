@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist with a passion in Robotics & Mechatronics </h3>
 
 - 🔭 I’m currently working on
-[Arduino-Electronic-Voting-Machine](https://github.com/abdullah-hadi/Arduino-Electronic-Voting-Machine)
+[smart-home | Arduino_ESP32](https://github.com/abdullah-hadi/smart-home_Arduino-ESP32)
 
 - 🌱 I’m currently learning **Machine Learning , Arduino**
 
