@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on
 [smart-home | Arduino_ESP32](https://github.com/abdullah-hadi/smart-home_Arduino-ESP32)
 
-- 🌱 I’m currently learning **Machine Learning , Arduino**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, TinyML**
 
 - 📫 How to reach me **armahfuz47@gmail.com**
 
