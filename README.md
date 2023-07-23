@@ -37,7 +37,9 @@
         <a href="https://www.linkedin.com/in/mahfuz244/">  &nbsp   &nbsp
         <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin-icon.svg" height=40px>
     <a/>   
-<p/>
+   <b margin-5> &nbspLove connecting with new people everyday</b> 
+      <p/>
+
  
   
           
