@@ -26,21 +26,11 @@
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abdullah-hadi&hide=html,CSS&layout=compact&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
 
 <div align="center"  width="100%" style = "margin: 30px;">
-    <img src="https://media.giphy.com/media/3oFyD4yCrbo29sDhZe/giphy.gif" width = 200>
-    <br/>
-    <b margin-5>Love connecting with new people everyday</b> 
-    <br/>
-    <br/>
-   
-    
-                
-<p>
+    <img src="https://media.giphy.com/media/3oFyD4yCrbo29sDhZe/giphy.gif" width = 150>
+    <br/> <br/>
+  <p>
     <a href="https://www.facebook.com/mahfuz244">
         <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/facebook.svg" height=40px>
     <a/>
@@ -48,8 +38,18 @@
         <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin-icon.svg" height=40px>
     <a/>   
 <p/>
-            
-            
+    <b margin-5>Love connecting with new people everyday</b> 
+    <br/>
+    <br/>
+          
 
 </div>
+
+  
+  
+  </td>
+</tr>
+</table>
+
+
 
