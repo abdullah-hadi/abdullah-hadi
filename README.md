@@ -34,7 +34,7 @@
 <div align="center"  width="100%" style = "margin: 30px;">
     <img src="https://media.giphy.com/media/3oFyD4yCrbo29sDhZe/giphy.gif" width = 200>
     <br/>
-    <b margin-5>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
+    <b margin-5>Love connecting with new people everyday</b> 
     <br/>
     <br/>
    
@@ -44,12 +44,12 @@
     <a href="https://www.facebook.com/mahfuz244">
         <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/facebook.svg" height=40px>
     <a/>
-        <a href="https://www.linkedin.com/in/mahfuz244/">
+        <a href="https://www.linkedin.com/in/mahfuz244/">  &nbsp   &nbsp
         <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin-icon.svg" height=40px>
     <a/>   
 <p/>
             
             
-<em><b>You can also follow me on Github</b> :)</em>
+
 </div>
 
