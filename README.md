@@ -24,7 +24,7 @@
 </td>
 
 <td width="50%" align="center">
-
+ <br/> <br/>
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abdullah-hadi&hide=html,CSS&layout=compact&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 
 <div align="center"  width="100%" style = "margin: 30px;">
