@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🍀, I'm Abdullah Al Hadi Mahfuz</h1>
-<h3 align="center">Data Scientist with a passion in Robotics & Mechatronics </h3>
+<h3 align="center"> Exploring Computer Vision with a passion in Robotics & Mechatronics </h3>
 
 - 🔭 I’m currently working on
 [Medical Image Classification using Deep Learning](https://github.com/abdullah-hadi/medical-image-classification-deep-learning)
