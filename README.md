@@ -1,8 +1,7 @@
 <h1 align="center">Hi 🍀, I'm Abdullah Al Hadi Mahfuz</h1>
 <h3 align="center"> Exploring Computer Vision with a passion in Robotics & Mechatronics </h3>
 
-- 🔭 I’m currently working on
-[Medical Image Classification using Deep Learning](https://github.com/abdullah-hadi/medical-image-classification-deep-learning)
+- 🔭 I’m currently working on as an AI/ML Automation Engineer
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, TinyML**
 
